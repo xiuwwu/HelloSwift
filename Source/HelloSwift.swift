@@ -1,1 +1,6 @@
-print("Hello, world!")
+class HelloSwift {
+
+    func Hello() {
+        print("Hello, world!")
+    }
+}
